@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ArtsFileSystemProvider.cs](./CS/App_Code/ArtsFileSystemProvider.cs) (VB: [ArtsFileSystemProvider.vb](./VB/App_Code/ArtsFileSystemProvider.vb))
+* [MetadataArtsFileSystemProvider.cs](./CS/App_Code/MetadataArtsFileSystemProvider.cs) (VB: [MetadataArtsFileSystemProvider.vb](./VB/App_Code/MetadataArtsFileSystemProvider.vb))
+* [Model.Context.cs](./CS/App_Code/Model.Context.cs) (VB: [Model.Context.vb](./VB/App_Code/Model.Context.vb))
+* [Model.cs](./CS/App_Code/Model.cs) (VB: [Model.vb](./VB/App_Code/Model.vb))
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [JavaScript.js](./CS/JavaScript.js) (VB: [JavaScript.js](./VB/JavaScript.js))
+<!-- default file list end -->
 # How to create ASPxFileManager with metadata support using Entity Framework and a database as a filestore
 
 
