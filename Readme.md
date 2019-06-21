@@ -10,6 +10,9 @@
 * [JavaScript.js](./CS/JavaScript.js) (VB: [JavaScript.js](./VB/JavaScript.js))
 <!-- default file list end -->
 # How to create ASPxFileManager with metadata support using Entity Framework and a database as a filestore
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t575127/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to get metadata from folders and files.</p>
